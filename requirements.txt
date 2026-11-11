@@ -1,0 +1,2 @@
+# Python >= 3.8, standard library only.
+# There are no third-party packages, so `pip install -r requirements.txt` installs nothing.
